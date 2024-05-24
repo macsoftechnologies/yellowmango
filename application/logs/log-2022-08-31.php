@@ -1,0 +1,67 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-31 00:33:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 01:32:39 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2022-08-31 01:32:39 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2022-08-31 01:32:39 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2022-08-31 01:32:39 --> 404 Page Not Found: Awsyml/index
+ERROR - 2022-08-31 01:32:40 --> 404 Page Not Found: Infophp/index
+ERROR - 2022-08-31 01:32:41 --> 404 Page Not Found: Aws/credentials
+ERROR - 2022-08-31 01:32:41 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2022-08-31 01:32:42 --> 404 Page Not Found: Configjs/index
+ERROR - 2022-08-31 04:32:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-08-31 04:37:09 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-08-31 04:37:09 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 04:52:48 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 04:52:48 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 04:52:48 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 04:52:51 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-08-31 04:52:51 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-08-31 05:34:07 --> 404 Page Not Found: Wp-commentinphp/index
+ERROR - 2022-08-31 08:20:17 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2022-08-31 08:20:19 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 08:20:22 --> Severity: error --> Exception: Too few arguments to function Userlogin::index(), 0 passed in /home2/yelloya2/public_html/system/core/CodeIgniter.php on line 532 and exactly 3 expected /home2/yelloya2/public_html/application/controllers/Userlogin.php 12
+ERROR - 2022-08-31 08:20:29 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `tbl_review` (`name`, `email`, `comment`, `review`, `product_id`, `created_at`) VALUES (NULL, NULL, NULL, NULL, NULL, '2022-08-31 08:20:29')
+ERROR - 2022-08-31 08:20:32 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `tbl_review` (`name`, `email`, `comment`, `review`, `product_id`, `created_at`) VALUES (NULL, NULL, NULL, NULL, NULL, '2022-08-31 08:20:32')
+ERROR - 2022-08-31 09:25:42 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-08-31 09:26:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 09:41:55 --> 404 Page Not Found: ALFA_DATA/alfacgiapi
+ERROR - 2022-08-31 09:41:56 --> 404 Page Not Found: Wp-plainphp/index
+ERROR - 2022-08-31 09:41:56 --> 404 Page Not Found: Alfacgiapi/perl.alfa
+ERROR - 2022-08-31 09:41:56 --> 404 Page Not Found: Umnuqrgrphp/index
+ERROR - 2022-08-31 09:41:57 --> 404 Page Not Found: Wp-plainphp/index
+ERROR - 2022-08-31 09:41:57 --> 404 Page Not Found: Zptakdnzphp/index
+ERROR - 2022-08-31 10:50:47 --> 404 Page Not Found: Assets/js
+ERROR - 2022-08-31 11:18:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 11:25:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 11:25:52 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-08-31 12:35:47 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-08-31 12:35:53 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-08-31 13:41:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 13:41:08 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 13:41:08 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-08-31 13:41:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 13:41:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:41:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:41:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:41:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:14 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-08-31 13:42:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 13:42:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:15 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 13:42:16 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 13:42:16 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:16 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-08-31 13:42:17 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-08-31 15:13:31 --> 404 Page Not Found: Wp-includes/wp-class.php
+ERROR - 2022-08-31 15:13:34 --> 404 Page Not Found: Radiophp/index
+ERROR - 2022-08-31 15:13:36 --> 404 Page Not Found: Fwphp/index
+ERROR - 2022-08-31 15:13:42 --> 404 Page Not Found: Fxphp/index
+ERROR - 2022-08-31 15:13:44 --> 404 Page Not Found: Upsphp/index
+ERROR - 2022-08-31 15:13:48 --> 404 Page Not Found: Wikindexphp/index
+ERROR - 2022-08-31 15:13:54 --> 404 Page Not Found: 1indexphp/index
+ERROR - 2022-08-31 19:40:27 --> 404 Page Not Found: Css/index.php
+ERROR - 2022-08-31 22:50:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-31 22:50:12 --> 404 Page Not Found: Robotstxt/index

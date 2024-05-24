@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-23 07:51:33 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-04-23 07:51:33 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-04-23 07:51:34 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:51:34 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:51:34 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:51:34 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:51:35 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-04-23 07:51:35 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-04-23 07:51:35 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-04-23 07:51:37 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-04-23 07:52:12 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-04-23 07:52:12 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:52:12 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:52:12 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:52:12 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 07:52:13 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-04-23 07:52:13 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-04-23 07:52:14 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-04-23 07:53:12 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 09:04:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-04-23 09:04:27 --> 404 Page Not Found: Assets2/images
+ERROR - 2022-04-23 09:04:28 --> 404 Page Not Found: Assets2/images

@@ -1,0 +1,55 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-01 00:08:51 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:52 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-09-01 00:08:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:53 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-09-01 00:08:53 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2022-09-01 00:08:53 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 00:08:54 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 01:40:31 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 01:40:31 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 01:40:31 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 01:40:32 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 01:40:32 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 01:40:32 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 01:40:33 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 01:56:10 --> 404 Page Not Found: Plugins/filemanager
+ERROR - 2022-09-01 01:56:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-09-01 06:55:38 --> 404 Page Not Found: Administrator/help
+ERROR - 2022-09-01 06:55:47 --> 404 Page Not Found: Administrator/help
+ERROR - 2022-09-01 08:18:50 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2022-09-01 08:18:59 --> Severity: error --> Exception: Too few arguments to function Userlogin::index(), 0 passed in /home2/yelloya2/public_html/system/core/CodeIgniter.php on line 532 and exactly 3 expected /home2/yelloya2/public_html/application/controllers/Userlogin.php 12
+ERROR - 2022-09-01 08:18:59 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2022-09-01 08:18:59 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 08:19:00 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 08:19:06 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `tbl_review` (`name`, `email`, `comment`, `review`, `product_id`, `created_at`) VALUES (NULL, NULL, NULL, NULL, NULL, '2022-09-01 08:19:06')
+ERROR - 2022-09-01 09:04:38 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-01 09:27:50 --> 404 Page Not Found: Feed/index
+ERROR - 2022-09-01 10:47:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-09-01 10:54:14 --> 404 Page Not Found: Wp-commentinphp/index
+ERROR - 2022-09-01 10:55:10 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2022-09-01 13:45:18 --> 404 Page Not Found: Filemanager/dialog.php
+ERROR - 2022-09-01 13:45:19 --> 404 Page Not Found: Assets/filemanager
+ERROR - 2022-09-01 18:47:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 19:26:18 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 19:42:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:42:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:42:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:42:10 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2022-09-01 19:42:11 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:57:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 19:57:14 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:57:14 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:57:14 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:57:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 19:57:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 20:42:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 20:42:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2022-09-01 21:49:31 --> 404 Page Not Found: ALFA_DATA/alfacgiapi
+ERROR - 2022-09-01 22:07:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-09-01 23:42:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 23:42:06 --> 404 Page Not Found: Search/label

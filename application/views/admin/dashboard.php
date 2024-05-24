@@ -1,0 +1,128 @@
+
+       <style>
+         
+      @media (min-width: 360px) and (max-width: 480px) {
+
+       .page-header{
+
+        padding-left: 10px !important;
+       }
+       /*.stretch-card {
+        margin: 15px;
+       }*/
+       .card .card-title {
+        text-align: center;
+        text-transform: uppercase;
+       }
+       .card .card-body {
+          padding: 1.5rem 1.5rem;
+      }
+      .table th, .table td {
+        font-size: 11px;
+      }
+      .table th, .table td {
+        padding: 11px;
+      }
+      .mobile-size{
+        margin: 0px 13px;
+      }
+      .mobile-size1{
+        margin-left: -13px;
+
+
+      }
+
+      }
+       </style>
+
+
+
+
+
+          <div class="content-wrapper">
+            <div class="page-header">
+              <h3 class="page-title">
+                <span class="page-title-icon bg-gradient-success text-white mr-2">
+                  <i class="mdi mdi-home"></i>
+                </span> Dashboard
+              </h3>
+              <!-- <nav aria-label="breadcrumb">
+                <ul class="breadcrumb">
+                  <li class="breadcrumb-item active" aria-current="page">
+                    <span></span>Overview <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
+                  </li>
+                </ul>
+              </nav> -->
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-6 stretch-card grid-margin">
+                <div class="card bg-gradient-danger card-img-holder text-white mobile-size">
+                  <div class="card-body">
+                    <img src="<?=base_url()?>assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3">Customers <i class="mdi mdi-chart-line mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5"><?php echo count($customers);?></h2>
+                    <!-- <h6 class="card-text">Increased by 60%</h6> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 col-6 stretch-card grid-margin">
+                <div class="card bg-gradient-info card-img-holder text-white mobile-size1">
+                  <div class="card-body">
+                    <img src="<?=base_url()?>assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3">Products <i class="mdi mdi-bookmark-outline mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5"><?php echo count($products);?></h2>
+                   <!--  <h6 class="card-text">Decreased by 10%</h6> -->
+                  </div>
+                </div>
+              </div>
+               <div class="col-md-4 col-6 stretch-card grid-margin">
+                <div class="card bg-gradient-success card-img-holder text-white mobile-size">
+                  <div class="card-body">
+                    <img src="<?=base_url()?>assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3"> Orders <i class="mdi mdi-diamond mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5"><?php echo $orde;?></h2>
+                  </div>
+                </div>
+              </div>
+              
+              
+            </div>
+          </div>
+
+          <div class="card">
+              <div class="card-body">
+                 <h4 class="card-title">Products Details</h4>
+               </div>
+          <!-- <h4 class="card-title">Products Details</h4> -->
+          <div class="content">
+                    <div class="table-full-width">
+                        <table class="table">
+                            <th>S.no</th>
+                            
+                            <th>Product Image</th>
+                            <th>Product Name</th>
+                            <th>Stock</th>
+                            <tbody>
+                                <?php if(count($bProducts) > 0) {
+                                    for ($i=0; $i < count($bProducts); $i++) { ?>
+                                <tr>
+                                    <td>
+                                        <a href="" class="btn btn-xs btn-success"><?php echo $i+1;?></a>
+                                    </td>
+                                    
+                                    <td><img src="<?php echo $bProducts[$i]['product_image'];?>" width="50" height="50"></td>
+                                    <td><?php echo $bProducts[$i]['product_name'];?></td>
+                                    <td><?php echo $bProducts[$i]['stock']-$bProducts[$i]['outward'];?></td>
+                                </tr>
+
+                            <?php }
+                        } ?>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+              </div>

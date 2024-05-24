@@ -1,0 +1,142 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-31 01:50:44 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 01:50:45 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 01:50:47 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 01:50:49 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 01:50:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 01:50:54 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:07:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 02:07:35 --> 404 Page Not Found: Assets2/images
+ERROR - 2024-01-31 02:22:48 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-01-31 02:24:57 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 02:24:58 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 02:24:59 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:24:59 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:00 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:01 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:29 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 02:25:30 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 02:25:31 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:32 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:33 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:25:33 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:49:37 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 02:49:38 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:49:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:49:40 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:49:41 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 02:49:42 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 04:59:40 --> 404 Page Not Found: Stylephp/index
+ERROR - 2024-01-31 05:59:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2024-01-31 07:02:37 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 07:02:38 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 07:02:40 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:24:51 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-01-31 08:26:02 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 08:26:03 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:03 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 08:26:04 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:05 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:06 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:53 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:54 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:54 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 08:26:55 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:26:56 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 08:35:00 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:01 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 08:35:02 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:03 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:04 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:05 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 08:35:44 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 08:35:44 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 08:35:45 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:46 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:47 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 08:35:49 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 12:46:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 13:52:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 13:52:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:11:54 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 14:11:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:11:54 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 14:11:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:11:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:12:00 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:12:00 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:12:01 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:12:02 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:25:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:35:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 14:35:19 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 14:35:21 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 14:35:21 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:35:22 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:35:23 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:35:24 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:45:52 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:45:54 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:45:55 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 14:45:55 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 14:45:57 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 14:45:59 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 15:08:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 15:35:11 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 15:35:12 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 15:35:13 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 15:35:14 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 15:35:14 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 15:35:15 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 16:04:20 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 16:04:21 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 16:04:22 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 16:04:23 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 16:04:24 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 16:04:25 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 17:53:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-01-31 19:57:27 --> 404 Page Not Found: Chosenphp/index
+ERROR - 2024-01-31 20:07:55 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2024-01-31 20:07:56 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2024-01-31 20:13:46 --> 404 Page Not Found: Env/index
+ERROR - 2024-01-31 20:28:45 --> 404 Page Not Found: Assets2/images
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 537
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 545
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 584
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 597
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 606
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 631
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 633
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 967
+ERROR - 2024-01-31 21:06:39 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 996
+ERROR - 2024-01-31 21:40:03 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2024-01-31 21:40:25 --> 404 Page Not Found: Sites/default
+ERROR - 2024-01-31 21:40:40 --> 404 Page Not Found: Admin/controller
+ERROR - 2024-01-31 21:49:22 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:49:23 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:49:25 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:49:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:49:27 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 21:49:28 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 21:52:45 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 21:52:45 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 21:52:46 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:52:47 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:52:47 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 21:52:48 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:12:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-31 22:12:52 --> 404 Page Not Found: Product/chinna-rasalu
+ERROR - 2024-01-31 22:54:04 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2024-01-31 22:54:06 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 22:54:07 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:54:08 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:54:09 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:54:10 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:54:10 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2024-01-31 22:54:11 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 22:54:12 --> 404 Page Not Found: Assets2/sass
+ERROR - 2024-01-31 23:50:52 --> 404 Page Not Found: Assets2/images

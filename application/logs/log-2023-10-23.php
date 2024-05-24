@@ -1,0 +1,367 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-23 00:10:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 00:10:42 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 00:10:43 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 00:10:43 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:10:44 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:13:37 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 00:13:38 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 00:13:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:13:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:13:40 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:13:41 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 00:17:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 00:49:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 00:58:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 00:58:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 00:58:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 00:58:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 01:36:43 --> 404 Page Not Found: Env/index
+ERROR - 2023-10-23 01:42:44 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2023-10-23 01:42:46 --> 404 Page Not Found: Home/owlcarousel
+ERROR - 2023-10-23 01:58:53 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2023-10-23 01:58:54 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-23 01:58:54 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2023-10-23 01:58:55 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2023-10-23 01:58:55 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2023-10-23 01:58:55 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2023-10-23 01:58:55 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2023-10-23 01:58:56 --> 404 Page Not Found: News/wp-includes
+ERROR - 2023-10-23 01:58:56 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2023-10-23 01:58:56 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2023-10-23 01:58:57 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2023-10-23 01:58:57 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2023-10-23 01:58:57 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2023-10-23 01:58:57 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2023-10-23 01:58:58 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2023-10-23 01:58:58 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2023-10-23 01:58:58 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2023-10-23 01:58:59 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2023-10-23 01:59:09 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2023-10-23 01:59:10 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-23 01:59:10 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2023-10-23 01:59:11 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2023-10-23 01:59:11 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2023-10-23 01:59:11 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2023-10-23 01:59:11 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2023-10-23 01:59:12 --> 404 Page Not Found: News/wp-includes
+ERROR - 2023-10-23 01:59:12 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2023-10-23 01:59:12 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2023-10-23 01:59:13 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2023-10-23 01:59:13 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2023-10-23 01:59:13 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2023-10-23 01:59:13 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2023-10-23 01:59:14 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2023-10-23 01:59:14 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2023-10-23 01:59:14 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2023-10-23 01:59:14 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2023-10-23 02:15:47 --> 404 Page Not Found: Alfa-rexphp7/index
+ERROR - 2023-10-23 02:15:48 --> 404 Page Not Found: Cjfunsphp/index
+ERROR - 2023-10-23 02:15:49 --> 404 Page Not Found: Usersphp/index
+ERROR - 2023-10-23 02:15:50 --> 404 Page Not Found: Lvphp/index
+ERROR - 2023-10-23 02:15:52 --> 404 Page Not Found: Bakphp/xmrlpc.php
+ERROR - 2023-10-23 02:15:54 --> 404 Page Not Found: Upfilephp/index
+ERROR - 2023-10-23 02:15:56 --> 404 Page Not Found: Lock360php/index
+ERROR - 2023-10-23 02:15:57 --> 404 Page Not Found: Ifcuxphp/indo.php
+ERROR - 2023-10-23 02:16:00 --> 404 Page Not Found: Idsphp/index
+ERROR - 2023-10-23 02:16:02 --> 404 Page Not Found: Lock360phpsuspected/index
+ERROR - 2023-10-23 02:16:04 --> 404 Page Not Found: Wp-includes/images
+ERROR - 2023-10-23 02:16:05 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 02:16:07 --> 404 Page Not Found: Wp-includes/ID3
+ERROR - 2023-10-23 02:16:08 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 02:16:11 --> 404 Page Not Found: Tggosyquphp/index
+ERROR - 2023-10-23 02:16:14 --> 404 Page Not Found: Wp-includes/bookmarks.php
+ERROR - 2023-10-23 02:16:15 --> 404 Page Not Found: Wp-includes/FFzn0.php
+ERROR - 2023-10-23 02:16:17 --> 404 Page Not Found: Wp-content/upgrade
+ERROR - 2023-10-23 02:16:18 --> 404 Page Not Found: Wp-includes/IXR
+ERROR - 2023-10-23 02:16:20 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-10-23 02:16:23 --> 404 Page Not Found: Wp-includes/Text
+ERROR - 2023-10-23 02:16:27 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:16:28 --> 404 Page Not Found: Wp-includes/ID3
+ERROR - 2023-10-23 02:16:30 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2023-10-23 02:16:34 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-10-23 02:16:36 --> 404 Page Not Found: Uploads/profile
+ERROR - 2023-10-23 02:16:38 --> 404 Page Not Found: Wp-content/wp-editor.php
+ERROR - 2023-10-23 02:16:41 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2023-10-23 02:16:43 --> 404 Page Not Found: Wp-includes/customize
+ERROR - 2023-10-23 02:16:44 --> 404 Page Not Found: Wp-includes/customize
+ERROR - 2023-10-23 02:16:45 --> 404 Page Not Found: Wp-content/upgrade
+ERROR - 2023-10-23 02:16:47 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-10-23 02:16:48 --> 404 Page Not Found: Alfanewphp/index
+ERROR - 2023-10-23 02:16:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 02:16:51 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 02:16:53 --> 404 Page Not Found: Wp-includes/wp-class.php
+ERROR - 2023-10-23 02:16:54 --> 404 Page Not Found: Editphp/index
+ERROR - 2023-10-23 02:16:55 --> 404 Page Not Found: Xleetphp/index
+ERROR - 2023-10-23 02:16:56 --> 404 Page Not Found: Wp-content/updates.php
+ERROR - 2023-10-23 02:16:57 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:16:59 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:17:00 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:17:02 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 02:17:03 --> 404 Page Not Found: Gelyphp/index
+ERROR - 2023-10-23 02:17:04 --> 404 Page Not Found: Wp-admin/js
+ERROR - 2023-10-23 02:17:06 --> 404 Page Not Found: Smallphp/index
+ERROR - 2023-10-23 02:17:08 --> 404 Page Not Found: UPdateUPgradephp/index
+ERROR - 2023-10-23 02:17:10 --> 404 Page Not Found: Rxphp/index
+ERROR - 2023-10-23 02:17:11 --> 404 Page Not Found: Wp-pphp7/index
+ERROR - 2023-10-23 02:17:13 --> 404 Page Not Found: Wp-admin/repeater.php
+ERROR - 2023-10-23 02:17:15 --> 404 Page Not Found: Wp-includes/repeater.php
+ERROR - 2023-10-23 02:17:16 --> 404 Page Not Found: Wp-content/repeater.php
+ERROR - 2023-10-23 02:17:19 --> 404 Page Not Found: Wp-admin/js
+ERROR - 2023-10-23 02:17:20 --> 404 Page Not Found: Simplephp/index
+ERROR - 2023-10-23 02:17:22 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:17:23 --> 404 Page Not Found: Typhp/index
+ERROR - 2023-10-23 02:17:25 --> 404 Page Not Found: Wp-includes/Requests
+ERROR - 2023-10-23 02:17:26 --> 404 Page Not Found: Wp-includes/Requests
+ERROR - 2023-10-23 02:17:27 --> 404 Page Not Found: Congphp/index
+ERROR - 2023-10-23 02:17:30 --> 404 Page Not Found: Cgi-bin/my1.php
+ERROR - 2023-10-23 02:17:31 --> 404 Page Not Found: Cache-compatphp/index
+ERROR - 2023-10-23 02:17:33 --> 404 Page Not Found: Ajax-actionsphp/index
+ERROR - 2023-10-23 02:17:34 --> 404 Page Not Found: Wp-admin/ajax-actions.php
+ERROR - 2023-10-23 02:17:35 --> 404 Page Not Found: Wp-admin/images
+ERROR - 2023-10-23 02:17:37 --> 404 Page Not Found: My1php/index
+ERROR - 2023-10-23 02:17:38 --> 404 Page Not Found: Nf_trackingphp/index
+ERROR - 2023-10-23 02:17:41 --> 404 Page Not Found: Wp-consarphp/index
+ERROR - 2023-10-23 02:17:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 02:17:43 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2023-10-23 02:17:45 --> 404 Page Not Found: Admin-postphp/index
+ERROR - 2023-10-23 02:17:47 --> 404 Page Not Found: Wp-admin/maint
+ERROR - 2023-10-23 02:17:49 --> 404 Page Not Found: Wp-admin/dropdown.php
+ERROR - 2023-10-23 02:17:51 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-10-23 02:17:52 --> 404 Page Not Found: Dropdownphp/index
+ERROR - 2023-10-23 02:17:53 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2023-10-23 02:17:54 --> 404 Page Not Found: Class_apiphp/index
+ERROR - 2023-10-23 02:17:56 --> 404 Page Not Found: Adminphp/index
+ERROR - 2023-10-23 02:17:57 --> 404 Page Not Found: Aboutphp7/index
+ERROR - 2023-10-23 02:18:00 --> 404 Page Not Found: Alfanewphp7/index
+ERROR - 2023-10-23 02:18:02 --> 404 Page Not Found: Adminfunsphp7/index
+ERROR - 2023-10-23 02:18:03 --> 404 Page Not Found: Ebsphp7/index
+ERROR - 2023-10-23 02:18:05 --> 404 Page Not Found: Ebsphp/index
+ERROR - 2023-10-23 02:18:07 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 02:18:08 --> 404 Page Not Found: Wsphp/index
+ERROR - 2023-10-23 02:18:10 --> 404 Page Not Found: Wsphp7/index
+ERROR - 2023-10-23 02:18:11 --> 404 Page Not Found: Alfanew2php7/index
+ERROR - 2023-10-23 02:18:13 --> 404 Page Not Found: Alfa-rex2php7/index
+ERROR - 2023-10-23 02:28:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 02:28:28 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 02:28:28 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 02:28:37 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 02:28:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 02:28:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 02:28:40 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 04:17:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 537
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 545
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 584
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 597
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 606
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 631
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 633
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 967
+ERROR - 2023-10-23 06:05:07 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 996
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 537
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 545
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 584
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 597
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 606
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 631
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 633
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 967
+ERROR - 2023-10-23 06:08:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 996
+ERROR - 2023-10-23 06:14:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 06:14:21 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-10-23 08:07:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 08:15:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 08:29:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 08:29:37 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 08:29:38 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 08:29:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:29:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:29:39 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:29:40 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:31:25 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 08:31:26 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 08:31:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:31:26 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:31:27 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:31:27 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:34:59 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 08:35:00 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 08:35:01 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:35:01 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:35:02 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 08:35:02 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 10:25:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 11:02:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 12:19:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 13:01:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 13:31:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 14:59:35 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-10-23 15:00:33 --> 404 Page Not Found: Wp-loadphp/index
+ERROR - 2023-10-23 15:00:35 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-10-23 15:00:37 --> 404 Page Not Found: Wp-admin/style.php
+ERROR - 2023-10-23 15:00:40 --> 404 Page Not Found: S_ephp/index
+ERROR - 2023-10-23 15:00:43 --> 404 Page Not Found: S_nephp/index
+ERROR - 2023-10-23 15:00:47 --> 404 Page Not Found: 1indexphp/index
+ERROR - 2023-10-23 15:00:50 --> 404 Page Not Found: Radiophp/index
+ERROR - 2023-10-23 15:00:53 --> 404 Page Not Found: Docphp/index
+ERROR - 2023-10-23 15:00:57 --> 404 Page Not Found: Wp_wrong_datlibphp/index
+ERROR - 2023-10-23 15:01:01 --> 404 Page Not Found: Beencephp/index
+ERROR - 2023-10-23 15:01:04 --> 404 Page Not Found: Upsphp/index
+ERROR - 2023-10-23 15:01:07 --> 404 Page Not Found: Wp-signinphp/index
+ERROR - 2023-10-23 15:01:10 --> 404 Page Not Found: Media-adminphp/index
+ERROR - 2023-10-23 15:01:14 --> 404 Page Not Found: Exportphp/index
+ERROR - 2023-10-23 15:01:16 --> 404 Page Not Found: Wp-content/export.php
+ERROR - 2023-10-23 15:01:19 --> 404 Page Not Found: Wp-includes/wp-class.php
+ERROR - 2023-10-23 15:01:24 --> 404 Page Not Found: Wp-includes/wp-atom.php
+ERROR - 2023-10-23 15:01:28 --> 404 Page Not Found: Wp-includes/images
+ERROR - 2023-10-23 15:01:30 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2023-10-23 15:01:34 --> 404 Page Not Found: Defau1tphp/index
+ERROR - 2023-10-23 15:01:38 --> 404 Page Not Found: Modulessphp/index
+ERROR - 2023-10-23 15:01:41 --> 404 Page Not Found: Wp-bookingphp/index
+ERROR - 2023-10-23 15:01:44 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 15:01:48 --> 404 Page Not Found: Wp-content/mu-plugins
+ERROR - 2023-10-23 15:01:51 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2023-10-23 15:01:54 --> 404 Page Not Found: Configbakphp/index
+ERROR - 2023-10-23 15:01:56 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-10-23 15:01:59 --> 404 Page Not Found: Legionphp/index
+ERROR - 2023-10-23 15:02:03 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 15:02:07 --> 404 Page Not Found: Wp-pluginsphp/index
+ERROR - 2023-10-23 15:02:11 --> 404 Page Not Found: GankphpPhP/index
+ERROR - 2023-10-23 15:02:14 --> 404 Page Not Found: Wp-content/db-cache.php
+ERROR - 2023-10-23 15:02:18 --> 404 Page Not Found: Archivesphp/index
+ERROR - 2023-10-23 15:02:23 --> 404 Page Not Found: Defau11php/index
+ERROR - 2023-10-23 15:02:25 --> 404 Page Not Found: Wp-content/outcms.php
+ERROR - 2023-10-23 15:02:29 --> 404 Page Not Found: System_logphp/index
+ERROR - 2023-10-23 15:02:32 --> 404 Page Not Found: Wp-backup-sql-302php/index
+ERROR - 2023-10-23 15:02:35 --> 404 Page Not Found: Errorphp/index
+ERROR - 2023-10-23 15:02:38 --> 404 Page Not Found: ALFA_DATA/index
+ERROR - 2023-10-23 15:02:41 --> 404 Page Not Found: Alfacgiapi/index
+ERROR - 2023-10-23 15:02:44 --> 404 Page Not Found: Cgialfa/index
+ERROR - 2023-10-23 15:02:52 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 15:02:56 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 15:02:59 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2023-10-23 15:03:02 --> 404 Page Not Found: Wp-includes/ALFA_DATA
+ERROR - 2023-10-23 15:03:05 --> 404 Page Not Found: Wp-includes/alfacgiapi
+ERROR - 2023-10-23 15:03:08 --> 404 Page Not Found: Wp-includes/cgialfa
+ERROR - 2023-10-23 15:03:12 --> 404 Page Not Found: Wp-admin/ALFA_DATA
+ERROR - 2023-10-23 15:03:15 --> 404 Page Not Found: Wp-admin/alfacgiapi
+ERROR - 2023-10-23 15:03:18 --> 404 Page Not Found: Wp-admin/cgialfa
+ERROR - 2023-10-23 15:03:21 --> 404 Page Not Found: Wp-content/ALFA_DATA
+ERROR - 2023-10-23 15:03:24 --> 404 Page Not Found: Wp-content/alfacgiapi
+ERROR - 2023-10-23 15:03:27 --> 404 Page Not Found: Wp-content/cgialfa
+ERROR - 2023-10-23 15:03:29 --> 404 Page Not Found: Templates/beez3
+ERROR - 2023-10-23 15:03:32 --> 404 Page Not Found: Templates/beez3
+ERROR - 2023-10-23 15:03:35 --> 404 Page Not Found: Templates/beez3
+ERROR - 2023-10-23 15:03:38 --> 404 Page Not Found: Sites/default
+ERROR - 2023-10-23 15:03:41 --> 404 Page Not Found: Sites/default
+ERROR - 2023-10-23 15:03:44 --> 404 Page Not Found: Sites/default
+ERROR - 2023-10-23 15:03:47 --> 404 Page Not Found: Admin/controller
+ERROR - 2023-10-23 15:03:50 --> 404 Page Not Found: Admin/controller
+ERROR - 2023-10-23 15:03:52 --> 404 Page Not Found: Admin/controller
+ERROR - 2023-10-23 15:03:55 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 15:03:59 --> 404 Page Not Found: Oluxphp/index
+ERROR - 2023-10-23 15:04:00 --> 404 Page Not Found: Xleetphp/index
+ERROR - 2023-10-23 15:04:02 --> 404 Page Not Found: Wsophp/index
+ERROR - 2023-10-23 15:04:03 --> 404 Page Not Found: Shellphp/index
+ERROR - 2023-10-23 15:04:05 --> 404 Page Not Found: Upphp/index
+ERROR - 2023-10-23 15:04:06 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2023-10-23 15:04:08 --> 404 Page Not Found: 1php/index
+ERROR - 2023-10-23 15:04:10 --> 404 Page Not Found: Xphp/index
+ERROR - 2023-10-23 15:04:11 --> 404 Page Not Found: Zphp/index
+ERROR - 2023-10-23 15:04:13 --> 404 Page Not Found: Aphp/index
+ERROR - 2023-10-23 15:04:15 --> 404 Page Not Found: Testphp/index
+ERROR - 2023-10-23 15:04:16 --> 404 Page Not Found: Wpphp/index
+ERROR - 2023-10-23 15:04:18 --> 404 Page Not Found: Alfaphp/index
+ERROR - 2023-10-23 15:04:19 --> 404 Page Not Found: Configphp/index
+ERROR - 2023-10-23 15:04:21 --> 404 Page Not Found: Templates/beez3
+ERROR - 2023-10-23 15:04:22 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2023-10-23 15:04:23 --> 404 Page Not Found: Shellsphp/index
+ERROR - 2023-10-23 16:01:55 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-10-23 16:33:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 16:34:41 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 16:34:47 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 16:38:49 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 16:38:50 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 16:38:51 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 16:38:53 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 16:38:55 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 16:38:57 --> 404 Page Not Found: Assets2/sass
+ERROR - 2023-10-23 16:49:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 17:33:52 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 18:28:32 --> 404 Page Not Found: Contact-us/index
+ERROR - 2023-10-23 18:28:34 --> 404 Page Not Found: Contact-us/index
+ERROR - 2023-10-23 18:28:35 --> 404 Page Not Found: Contact-us/index
+ERROR - 2023-10-23 18:28:36 --> 404 Page Not Found: Contact-us/index
+ERROR - 2023-10-23 18:55:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 18:55:28 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-23 18:55:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-10-23 18:55:28 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Ajaxgoogleapiscom/ajax
+ERROR - 2023-10-23 19:36:39 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:40 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:40 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:53 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:36:55 --> 404 Page Not Found: Ajaxgoogleapiscom/ajax
+ERROR - 2023-10-23 19:36:55 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:06 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:07 --> 404 Page Not Found: Ajaxgoogleapiscom/ajax
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Ajaxgoogleapiscom/ajax
+ERROR - 2023-10-23 19:37:20 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:22 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:37:34 --> 404 Page Not Found: Ajaxgoogleapiscom/ajax
+ERROR - 2023-10-23 19:37:36 --> 404 Page Not Found: Yellowmangoin/assets2
+ERROR - 2023-10-23 19:43:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-10-23 19:46:55 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 19:47:04 --> 404 Page Not Found: Owlcarousel/owl.carousel.min.css
+ERROR - 2023-10-23 21:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 21:36:05 --> 404 Page Not Found: Owlcarousel/owl.theme.default.min.css
+ERROR - 2023-10-23 22:53:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 23:21:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 537
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 545
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 584
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 597
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 606
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 631
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 633
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 644
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 967
+ERROR - 2023-10-23 23:49:11 --> Severity: Notice --> Trying to access array offset on value of type null /home/u336424193/domains/yellowmango.in/public_html/application/views/product_details.php 996
